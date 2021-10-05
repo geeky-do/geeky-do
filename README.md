@@ -1,7 +1,7 @@
 ### Hello! 🤓
 My name is Dina (she/her). 
 
-- I am trying to do something in rust to show off.
+- 🦀 : I am trying to do something in rust to show off.
 
 - 🗞️ Blog: I write random thoughts here [DevImposter](https://www.devimposter.tech/)
   
