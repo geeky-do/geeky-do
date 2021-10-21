@@ -10,6 +10,6 @@ My name is Dina (she/her).
 ---
 **NOTE**
 
-This is not representative of  my skills or personality so take it with a grain of a salt and talk to the real person!
+This is not representative of  my skills or personality so take it with a grain of salt and talk to the real person!
 
 ---
